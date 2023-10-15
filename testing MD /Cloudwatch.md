@@ -38,7 +38,7 @@ Automate resource planning and lower costs by setting actions to occur when thre
 
 Full-stack observability at AWS includes AWS-native, Application Performance Monitoring (APM), and open-source solutions, giving you the ability to understand what is happening across your technology stack at any time. AWS observability lets you collect, correlate, aggregate, and analyze telemetry in your network, infrastructure, and applications in the cloud, hybrid, or on-premises environments so you can gain insights into the behavior, performance, and health of your system. These insights help you detect, investigate, and remediate problems faster; and coupled with artificial intelligence and machine learning, proactively react, predict, and prevent problems.
 
-<"img src =https://github.com/Lourdez/images/blob/main/Observability-vs-Monitoring-vs-Telemetry%402x.png">
+<img src ="https://github.com/Lourdez/images/blob/main/Observability-vs-Monitoring-vs-Telemetry%402x.png">
 
 _This is italic text_
 
