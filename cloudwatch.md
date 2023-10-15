@@ -1,40 +1,11 @@
 # AWS Cloud-Watch
-## h2 Heading
+
 <img src ="https://github.com/Lourdez/images/blob/main/What-is-AWS-CloudWatch.png">
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+## What is cloud-Watch
 
+**Amazon CloudWatch** monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. You can use CloudWatch to collect and track metrics, which are variables you can measure for your resources and applications
 
-## Horizontal Rules
-
-___
-
----
-
-***
-
-
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
+<img src ="https://github.com/Lourdez/images/blob/main/Product-Page-Diagram_Amazon-CloudWatch.095eb618193be7422d2d34e3abd5fdf178b6c0e2.png">
 *This is italic text*
 
 _This is italic text_
