@@ -4,7 +4,7 @@
 
 ## What is cloud-Watch
 
-**Amazon CloudWatch** monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. You can use Cloud Watch to collect and track metrics, which are variables you can measure for your resources and applications
+**Amazon Cloud Watch** monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. You can use Cloud Watch to collect and track metrics, which are variables you can measure for your resources and applications
 
 ## What It Does
 It Collect, access, and analyze your resource and application data using powerful visualization tools.
@@ -40,8 +40,8 @@ Full-stack observability at AWS includes AWS-native, Application Performance Mon
 
 <img src ="https://github.com/Lourdez/images/blob/main/Observability-vs-Monitoring-vs-Telemetry%402x.png">
 
-## Collect metrics, logs, and traces from Amazon EC2 instances and on-premises servers with the CloudWatch agent
-The unified CloudWatch agent enables you to do the following:
+## Collect metrics, logs, and traces from Amazon EC2 instances and on-premises servers with the Cloud Watch agent
+The unified Cloud Watch agent enables you to do the following:
 
 + Collect internal system-level metrics from Amazon EC2 instances across operating systems. The metrics can include in-guest metrics, in addition to the metrics for EC2 instances.
 + collect system-level metrics from on-premises servers. These can include servers in a hybrid environment as well as servers not managed by AWS.
@@ -50,7 +50,7 @@ The unified CloudWatch agent enables you to do the following:
 
 + Collect logs from Amazon EC2 instances and on-premises servers, running either Linux or Windows Server.
 
-+ Versions 1.300025.0 and later can collect traces from the AWS X-Ray OpenTelemetry auto-instrumention SDKs and send them to the X-Ray backend.
++ Versions 1.300025.0 and later can collect traces from the AWS X-Ray Open Telemetry auto-instrumentation SDKs and send them to the X-Ray backend.
 
 
 ## How To Create Cloud Watch
@@ -58,13 +58,27 @@ The unified CloudWatch agent enables you to do the following:
 
 <img src ="https://github.com/Lourdez/images/blob/main/Screenshot%20(127).png">
 
-2. Search for cloud watch in the search bar
+2. Search for cloud watch in the search bar and Click on First result  to get into Cloud watch Page
 
 <img src ="https://github.com/Lourdez/images/blob/main/Cloud%20watch.png">
+
+3. Under Dash Board Session , click create dashboard 
+
+<img src ="https://github.com/Lourdez/images/blob/main/Screenshot%20(134).png">
+
+4. Give a name to the dash board and click next 
+
+<img src ="https://github.com/Lourdez/images/blob/main/Screenshot%20(133).png">
+
+5.Select the metrics or logs to monitoring and select the EC2 / S3 / ELB / load Balancer  
+
+<img src ="https://github.com/Lourdez/images/blob/main/Screenshot%20(135).png">
+
+
 ## Cloud Watch Pricing
 
 ### Free tier
-You can get started with Amazon CloudWatch for free. Most AWS Services (EC2, S3, Kinesis, etc.) send metrics automatically for free to CloudWatch. Many applications should be able to operate within these free tier limits.
+You can get started with Amazon Cloud Watch for free. Most AWS Services (EC2, S3, Kinesis, etc.) send metrics automatically for free to Cloud Watch. Many applications should be able to operate within these free tier limits.
 
 |  |  |
 | ------ | -----------: |
@@ -76,194 +90,3 @@ You can get started with Amazon CloudWatch for free. Most AWS Services (EC2, S3,
 
 ~~Strikethrough~~
 
-
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-
-
-## Lists
-
-Unordered
-
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-Right aligned columns
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1
-with lazy continuation.
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-  ~ Definition 1
-
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
-
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-*here be dragons*
-:::
