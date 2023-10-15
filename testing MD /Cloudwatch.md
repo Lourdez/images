@@ -4,7 +4,7 @@
 
 ## What is cloud-Watch
 
-**Amazon CloudWatch** monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. You can use CloudWatch to collect and track metrics, which are variables you can measure for your resources and applications
+**Amazon CloudWatch** monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. You can use Cloud Watch to collect and track metrics, which are variables you can measure for your resources and applications
 
 ## What It Does
 It Collect, access, and analyze your resource and application data using powerful visualization tools.
@@ -51,6 +51,10 @@ The unified CloudWatch agent enables you to do the following:
 + Collect logs from Amazon EC2 instances and on-premises servers, running either Linux or Windows Server.
 
 + Versions 1.300025.0 and later can collect traces from the AWS X-Ray OpenTelemetry auto-instrumention SDKs and send them to the X-Ray backend.
+
+
+## How To Create Cloud Watch
+!. Login Into AmazonManagement Console(https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26nc2%3Dh_ct%26src%3Dheader-signin%26state%3DhashArgsFromTB_eu-north-1_67569bb514fd7334&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&forceMobileApp=0&code_challenge=O-19Kk8URbYdcSReZJtf-59QKpGm4u3dALUVrpv1Fj4&code_challenge_method=SHA-256)
 
 ## Cloud Watch Pricing
 
