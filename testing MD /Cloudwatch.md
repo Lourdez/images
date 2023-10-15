@@ -40,7 +40,30 @@ Full-stack observability at AWS includes AWS-native, Application Performance Mon
 
 <img src ="https://github.com/Lourdez/images/blob/main/Observability-vs-Monitoring-vs-Telemetry%402x.png">
 
-_This is italic text_
+## Collect metrics, logs, and traces from Amazon EC2 instances and on-premises servers with the CloudWatch agent
+The unified CloudWatch agent enables you to do the following:
+
++ Collect internal system-level metrics from Amazon EC2 instances across operating systems. The metrics can include in-guest metrics, in addition to the metrics for EC2 instances.
++ collect system-level metrics from on-premises servers. These can include servers in a hybrid environment as well as servers not managed by AWS.
+
++ Retrieve custom metrics from your applications or services using the StatsD and collectd protocols. StatsD is supported on both Linux servers and servers running Windows Server. collectd is supported only on Linux servers.
+
++ Collect logs from Amazon EC2 instances and on-premises servers, running either Linux or Windows Server.
+
++ Versions 1.300025.0 and later can collect traces from the AWS X-Ray OpenTelemetry auto-instrumention SDKs and send them to the X-Ray backend.
+
+## Cloud Watch Pricing
+
+### Free tier
+You can get started with Amazon CloudWatch for free. Most AWS Services (EC2, S3, Kinesis, etc.) send metrics automatically for free to CloudWatch. Many applications should be able to operate within these free tier limits.
+
+|  |  |
+| ------ | -----------: |
+| Metrics | Basic Monitoring Metrics (Metrics sent from AWS Services by default)
+| Dashboard | 3 Custom Dashboards referencing up to 50 metrics each per month. Additionally, all Automatic Dashboards are free.
+| Alarms| 10 Alarm metrics (only applicable to Standard resolution alarms that list metrics directly and don’t use a Metrics Insights query)
+| Logs | 5 GB Data (ingestion, archive storage, and data scanned by Logs Insights queries)1,800 minutes of Live Tail usage per month (approximately an hour per day)
+
 
 ~~Strikethrough~~
 
