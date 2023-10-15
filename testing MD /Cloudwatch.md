@@ -4,7 +4,7 @@
 
 ## What is cloud-Watch
 
-**Amazon CloudWatch** monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. You can use Cloud Watch to collect and track metrics, which are variables you can measure for your resources and applications
+**Amazon Cloud Watch** monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. You can use Cloud Watch to collect and track metrics, which are variables you can measure for your resources and applications
 
 ## What It Does
 It Collect, access, and analyze your resource and application data using powerful visualization tools.
@@ -40,8 +40,8 @@ Full-stack observability at AWS includes AWS-native, Application Performance Mon
 
 <img src ="https://github.com/Lourdez/images/blob/main/Observability-vs-Monitoring-vs-Telemetry%402x.png">
 
-## Collect metrics, logs, and traces from Amazon EC2 instances and on-premises servers with the CloudWatch agent
-The unified CloudWatch agent enables you to do the following:
+## Collect metrics, logs, and traces from Amazon EC2 instances and on-premises servers with the Cloud Watch agent
+The unified Cloud Watch agent enables you to do the following:
 
 + Collect internal system-level metrics from Amazon EC2 instances across operating systems. The metrics can include in-guest metrics, in addition to the metrics for EC2 instances.
 + collect system-level metrics from on-premises servers. These can include servers in a hybrid environment as well as servers not managed by AWS.
@@ -50,7 +50,7 @@ The unified CloudWatch agent enables you to do the following:
 
 + Collect logs from Amazon EC2 instances and on-premises servers, running either Linux or Windows Server.
 
-+ Versions 1.300025.0 and later can collect traces from the AWS X-Ray OpenTelemetry auto-instrumention SDKs and send them to the X-Ray backend.
++ Versions 1.300025.0 and later can collect traces from the AWS X-Ray Open Telemetry auto-instrumentation SDKs and send them to the X-Ray backend.
 
 
 ## How To Create Cloud Watch
@@ -67,12 +67,18 @@ The unified CloudWatch agent enables you to do the following:
 <img src ="https://github.com/Lourdez/images/blob/main/Screenshot%20(134).png">
 
 4. Give a name to the dash board and click next 
+
 <img src ="https://github.com/Lourdez/images/blob/main/Screenshot%20(133).png">
+
+5.Select the metrics or logs to monitoring and select the EC2 / S3 / ELB / load Balancer  
+
+<img src ="https://github.com/Lourdez/images/blob/main/Screenshot%20(135).png">
+
 
 ## Cloud Watch Pricing
 
 ### Free tier
-You can get started with Amazon CloudWatch for free. Most AWS Services (EC2, S3, Kinesis, etc.) send metrics automatically for free to CloudWatch. Many applications should be able to operate within these free tier limits.
+You can get started with Amazon Cloud Watch for free. Most AWS Services (EC2, S3, Kinesis, etc.) send metrics automatically for free to Cloud Watch. Many applications should be able to operate within these free tier limits.
 
 |  |  |
 | ------ | -----------: |
