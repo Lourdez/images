@@ -88,5 +88,5 @@ You can get started with Amazon Cloud Watch for free. Most AWS Services (EC2, S3
 | Logs | 5 GB Data (ingestion, archive storage, and data scanned by Logs Insights queries)1,800 minutes of Live Tail usage per month (approximately an hour per day)
 
 
-~~Strikethrough~~
+To know more about Cloud Watch [Click Here](https://aws.amazon.com/cloudwatch/)
 
