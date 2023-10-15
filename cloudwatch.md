@@ -17,6 +17,21 @@ Seamlessly integrate with more than 70 AWS services for simplified monitoring an
 
 Troubleshoot operational problems with actionable insights derived from logs and metrics in your Cloud Watch dashboards.
 
+## Use Cases
+### Monitor application performance
+Visualize performance data, create alarms, and correlate data to understand and resolve the root cause of performance issues in your AWS resources.
+
+<img src ="https://github.com/Lourdez/images/blob/main/monitor.png">
+
+### Perform root cause analysis
+Analyze metrics, logs, logs analytics, and user requests to speed up debugging and reduce overall mean time to resolution.
+
+<img src ="https://github.com/Lourdez/images/blob/main/analyse.png">
+
+### Optimize resources proactively
+Automate resource planning and lower costs by setting actions to occur when thresholds are met based on your specifications or machine learning models.
+
+<img src ="https://github.com/Lourdez/images/blob/main/collect.png">
 
 _This is italic text_
 
