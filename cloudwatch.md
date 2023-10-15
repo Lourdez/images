@@ -6,8 +6,17 @@
 
 **Amazon CloudWatch** monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. You can use CloudWatch to collect and track metrics, which are variables you can measure for your resources and applications
 
+## What It Does
+It Collect, access, and analyze your resource and application data using powerful visualization tools.
+
 <img src ="https://github.com/Lourdez/images/blob/main/Product-Page-Diagram_Amazon-CloudWatch.095eb618193be7422d2d34e3abd5fdf178b6c0e2.png">
-*This is italic text*
+
+Improve operational performance using alarms and automated actions set to activate at predetermined thresholds.
+
+Seamlessly integrate with more than 70 AWS services for simplified monitoring and scalability.
+
+Troubleshoot operational problems with actionable insights derived from logs and metrics in your Cloud Watch dashboards.
+
 
 _This is italic text_
 
