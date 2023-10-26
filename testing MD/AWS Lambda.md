@@ -6,6 +6,7 @@ AWS Lambda is like a super-smart computer but without the hassle of managing all
 To get started with AWS Lambda, you need to write your code in one of the supported languages, like Node.js, Java, C#, or Python. These are like the languages your computer understands, so you have to speak its language for it to work. You can even use other fancy tools and shortcuts in your code to make it even more powerful.
 
 Once you've got your code all written and polished, you can upload it to AWS Lambda and create what we call a "function." This function is like a little box that holds all your code and gets triggered when something happens, like someone visiting your website or uploading a file. When your function gets triggered, AWS Lambda springs into action, setting up everything your code needs to run smoothly. It's like having a personal assistant that sets up your workspace exactly how you like it every time you start working.
+<img src ="https://github.com/Lourdez/images/tree/main/testing%20MD">
 
 AWS Lambda brings a bunch of cool benefits to the table. One of the best things is scalability, which is just a fancy word for being able to handle lots of stuff without breaking a sweat. You can easily add more functions whenever you need them, so if your app suddenly gets super popular, AWS Lambda can handle the load without a hitch. It's like having an army of assistants ready to help you out whenever you need them.
 
