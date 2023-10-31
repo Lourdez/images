@@ -9,6 +9,13 @@ Amazon Web Services, Inc. (AWS) is a subsidiary of Amazon that provides on-deman
 
 **Amazon Cloud Watch** monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. You can use Cloud Watch to collect and track metrics, which are variables you can measure for your resources and applications
 
+## Monitor Your Entire AWS Environment More Effectively
+
+
+<img src="https://github.com/Lourdez/images/blob/main/testing%20MD/awsdashboardvideo.mp4">
+
+
+
 ## What It Does
 It Collect, access, and analyze your resource and application data using powerful visualization tools.
 
