@@ -86,7 +86,7 @@ The unified Cloud Watch agent enables you to do the following:
 + Create composite alerts, based on boolean logic, to reduce your time spent responding to spurious alerts
 + Automatically detect unanticipated outliers, anomalies, and errors with Watchdog
 
-## AWS Cloud-Watch Feathers in Simple 
+## AWS Cloud-Watch All Feathers in Simple 
 
 <img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/security-4_steps_toward_cloud_sec-f.png">
 
@@ -131,7 +131,7 @@ Unified view.
 ### Application Insights for .NET and SQL Server.
 + This feature provides easy monitoring for .NET and SQL Server applications, with automated dashboards and smart metrics.
 ### Anomaly Detection.
-+Machine learning algorithms can detect abnormal activity in AWS systems.
++ Machine learning algorithms can detect abnormal activity in AWS systems.
 ### ServiceLens.
 + This service monitors the performance, health and availability of applications and dependencies to reduce bottlenecks, recognize affected users and diagnose root causes.
 ### Synthetics.
