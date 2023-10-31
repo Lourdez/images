@@ -72,6 +72,24 @@ The unified Cloud Watch agent enables you to do the following:
 
 <img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/2019-06-20%2012_11_54-Cloud%20Insights%20(1)-2.webp">
 
++ Gain full visibility into your AWS application code performance with end-to-end tracing, full latency breakdowns, and flame graphs showcasing request-level details
++ Identify critical issues quickly with real-time service maps, AI-powered synthetic monitors, and alerts on performance issues
++ Easily test hypotheses by overlaying events onto time-synchronized graphs
++ Reduce mean time to resolution with infrastructure metrics, distributed request traces, and logs all within one platform
+
+## Receive AWS Alerts Only for the Issues That Matter and Eliminate False-Positives
+
+<img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/Example-Picture-1-2.png">
+
++ Set up alerts for anomalies and outliers that account for daily, weekly, and seasonal fluctuations
++ Proactively prevent outages and errors by alerting on metric forecasts
++ Create composite alerts, based on boolean logic, to reduce your time spent responding to spurious alerts
++ Automatically detect unanticipated outliers, anomalies, and errors with Watchdog
+
+## AWS Cloud-Watch Feathers in Simple 
+
+<img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/security-4_steps_toward_cloud_sec-f.png">
+
 ## How To Create Cloud Watch
 1. Login Into [Amazon Management Console](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26nc2%3Dh_ct%26src%3Dheader-signin%26state%3DhashArgsFromTB_eu-north-1_67569bb514fd7334&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&forceMobileApp=0&code_challenge=O-19Kk8URbYdcSReZJtf-59QKpGm4u3dALUVrpv1Fj4&code_challenge_method=SHA-256)
 
