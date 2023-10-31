@@ -9,15 +9,6 @@ Amazon Web Services, Inc. (AWS) is a subsidiary of Amazon that provides on-deman
 
 **Amazon Cloud Watch** monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. You can use Cloud Watch to collect and track metrics, which are variables you can measure for your resources and applications
 
-## Monitor Your Entire AWS Environment More Effectively
-
-<img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/cw-dashboard.jpg">
-
-+ See inside any stack, any app, anywhere at any scale with Datadog’s 650+ vendor-backed integrations
-+ Get started in seconds with auto-discovery for AWS services such as S3, EBS, ELB, and ElastiCache, among many others
-+ Visualize the performance of all your cloud services, on-premise servers, containers, and databases in real time with customizable, drag-and-drop dashboards
-
-
 
 ## What It Does
 It Collect, access, and analyze your resource and application data using powerful visualization tools.
@@ -67,6 +58,14 @@ The unified Cloud Watch agent enables you to do the following:
 + Collect logs from Amazon EC2 instances and on-premises servers, running either Linux or Windows Server.
 
 + Versions 1.300025.0 and later can collect traces from the AWS X-Ray Open Telemetry auto-instrumentation SDKs and send them to the X-Ray backend.
+
+## Monitor Your Entire AWS Environment More Effectively
+
+<img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/cw-dashboard.jpg">
+
++ See inside any stack, any app, anywhere at any scale with Datadog’s 650+ vendor-backed integrations
++ Get started in seconds with auto-discovery for AWS services such as S3, EBS, ELB, and ElastiCache, among many others
++ Visualize the performance of all your cloud services, on-premise servers, containers, and databases in real time with customizable, drag-and-drop dashboards
 
 
 ## How To Create Cloud Watch
