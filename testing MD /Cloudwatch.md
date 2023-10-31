@@ -1,7 +1,7 @@
 # AWS Cloud-Watch
 <img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/1_3BAC2llwtKNf0K9zOWkf4w.png">
 
-Amazon Web Services, Inc. (AWS) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered, pay-as-you-go basis. 
+Amazon CloudWatch is a component of Amazon Web Services that provides monitoring for AWS resources and the customer applications running on the Amazon infrastructure.
 
 ## What is cloud-Watch
 
@@ -104,7 +104,48 @@ The unified Cloud Watch agent enables you to do the following:
   
 ### Analyze 
 
-Advanced metrices and correlation 
++ Advanced metrices and correlation
+
+### CloudWatch Logs. 
++ This service enables users to collect and store logs for vended services for customers, logs for specific AWS services such as AWS CloudTrail, AWS Lambda, Amazon API Gateway, Amazon Simple Notification Service, or for proprietary applications and on-premises resources.
++  CloudWatch Logs Insights can provide quick queries and visualization of log data.
+  
+### Metrics collection.
++ Users can collect default metrics from more than 70 distributed AWS applications and view them in one place. They also can collect metrics and customize logs from their own applications or on-premises resources.
+  
+### Container Insights.
++ This feature collects, aggregates and monitors metrics and logs for containerized applications and microservices. It can also troubleshoot Amazon Elastic Kubernetes Service and Amazon Container Orchestration Service. 
+### CloudWatch Lambda Insights.
++This service collects, aggregates and monitors AWS Lambda logs and performance metrics from each container, including CPU, memory and disk information.   
+
+### Contributor Insights.
++ This feature provides a view of the top contributors influencing system performance, such as API calls, applications or customer accounts.
+Unified view.
++ This feature enables users to create dashboard views for selected applications, graphs and other visualized cloud data.
+### Composite alarms.
++ This function unifies alarms for different issues affected by the same application into a single notification. This can help root-cause diagnosis.
+### High resolution alarms. 
++ Users can set thresholds for specific metrics that trigger alarm actions, such as shutting down unused instances.
+### Correlation.
++ CloudWatch can correlate specific patterns in logs with metrics to diagnose a root cause.
+### Application Insights for .NET and SQL Server.
++ This feature provides easy monitoring for .NET and SQL Server applications, with automated dashboards and smart metrics.
+### Anomaly Detection.
++Machine learning algorithms can detect abnormal activity in AWS systems.
+### ServiceLens.
++ This service monitors the performance, health and availability of applications and dependencies to reduce bottlenecks, recognize affected users and diagnose root causes.
+### Synthetics.
++ This facility monitors application endpoints and alerts the user to errors and abnormal infrastructure issues.
+### Metric Streams.
++ This feature enables users to create near real-time metric streams to other applications, such as Amazon S3, or share them with third-party service providers.
+### Auto Scaling.
++ This feature automates capacity and resource planning.
+### CloudWatch Events.
++ This service provides a near real-time stream of system events and automates responses to operational changes.
+### Log analytics.
++ Advanced analytics are available for the information in CloudWatch Logs, without provisioning additional servers or the need for extra software. Queries can be exported to dashboards.
+### Integration with AWS Identity and Access Management.
++ This facility provides a management console to control which users and applications have access to CloudWatch data and resources.
 
 
 ## How To Create Cloud Watch
