@@ -11,8 +11,11 @@ Amazon Web Services, Inc. (AWS) is a subsidiary of Amazon that provides on-deman
 
 ## Monitor Your Entire AWS Environment More Effectively
 
+<img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/cw-dashboard.jpg">
 
-<img src="https://github.com/Lourdez/images/blob/main/testing%20MD/awsdashboardvideo.mp4">
++ See inside any stack, any app, anywhere at any scale with Datadog’s 650+ vendor-backed integrations
++ Get started in seconds with auto-discovery for AWS services such as S3, EBS, ELB, and ElastiCache, among many others
++ Visualize the performance of all your cloud services, on-premise servers, containers, and databases in real time with customizable, drag-and-drop dashboards
 
 
 
