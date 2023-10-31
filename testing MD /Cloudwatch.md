@@ -90,6 +90,23 @@ The unified Cloud Watch agent enables you to do the following:
 
 <img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/security-4_steps_toward_cloud_sec-f.png">
 
+### Collect 
+
++ Collect data through logs and metrices
+
+### Monitors
+
++ Data reported Through Dashboard and virtualization
+  
+### Act
+
++ Automate responses for specific metrices
+  
+### Analyze 
+
+Advanced metrices and correlation 
+
+
 ## How To Create Cloud Watch
 1. Login Into [Amazon Management Console](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26nc2%3Dh_ct%26src%3Dheader-signin%26state%3DhashArgsFromTB_eu-north-1_67569bb514fd7334&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&forceMobileApp=0&code_challenge=O-19Kk8URbYdcSReZJtf-59QKpGm4u3dALUVrpv1Fj4&code_challenge_method=SHA-256)
 
