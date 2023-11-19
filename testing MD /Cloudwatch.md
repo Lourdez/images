@@ -1,6 +1,6 @@
 # AWS Cloud-Watch
-<img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/1_3BAC2llwtKNf0K9zOWkf4w.png">
-<img src ="https://github.com/Lourdez/images/blob/main/Screenshot%20(127).png">
+![1_3BAC2llwtKNf0K9zOWkf4w](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/09223e51-1ced-4dea-b8c8-a5e701143912)
+
 Amazon CloudWatch is a component of Amazon Web Services that provides monitoring for AWS resources and the customer applications running on the Amazon infrastructure.
 
 ## What is cloud-Watch
