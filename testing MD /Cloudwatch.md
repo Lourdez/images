@@ -160,19 +160,20 @@ Unified view.
 
 2. Search for cloud watch in the search bar and Click on First result  to get into Cloud watch Page
 
-<img src ="https://github.com/Lourdez/images/blob/main/Cloud%20watch.png">
+![Cloud watch](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/bff88a7b-43fd-410e-9c27-5ce825e4221d)
 
 3. Under Dash Board Session , click create dashboard 
 
-<img src ="https://github.com/Lourdez/images/blob/main/Screenshot%20(134).png">
+![Screenshot (134)](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/87b5afa8-8c23-4449-8745-6a0bcceec5a4)
 
 4. Give a name to the dash board and click next 
 
-<img src ="https://github.com/Lourdez/images/blob/main/Screenshot%20(133).png">
+![Screenshot (133)](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/0b61afc1-3c74-4f08-94cd-42e3a00716de)
+
 
 5.Select the metrics or logs to monitoring and select the EC2 / S3 / ELB / load Balancer  
 
-<img src ="https://github.com/Lourdez/images/blob/main/Screenshot%20(135).png">
+![Screenshot (135)](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/24f3b76a-15a9-4167-bf8d-ecf7e5e1c947)
 
 
 ## Cloud Watch Pricing
