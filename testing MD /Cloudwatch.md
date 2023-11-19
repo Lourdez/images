@@ -14,7 +14,9 @@ Amazon CloudWatch is a component of Amazon Web Services that provides monitoring
 ## What It Does
 It Collect, access, and analyze your resource and application data using powerful visualization tools.
 
-<img src ="https://github.com/Lourdez/images/blob/main/Product-Page-Diagram_Amazon-CloudWatch.095eb618193be7422d2d34e3abd5fdf178b6c0e2.png">
+
+![Product-Page-Diagram_Amazon-CloudWatch 095eb618193be7422d2d34e3abd5fdf178b6c0e2](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/4b93a498-a3da-4b3b-b906-bf7b961efbd9)
+
 
 Improve operational performance using alarms and automated actions set to activate at predetermined thresholds.
 
