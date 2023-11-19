@@ -5,7 +5,8 @@ Amazon CloudWatch is a component of Amazon Web Services that provides monitoring
 
 ## What is cloud-Watch
 
-<img src ="https://github.com/Lourdez/images/blob/main/What-is-AWS-CloudWatch.png">
+![What-is-AWS-CloudWatch](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/1a861808-c27c-4f1b-898c-3bc6c793c73c)
+
 
 **Amazon Cloud Watch** monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. You can use Cloud Watch to collect and track metrics, which are variables you can measure for your resources and applications
 
