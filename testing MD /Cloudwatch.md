@@ -47,7 +47,7 @@ Automate resource planning and lower costs by setting actions to occur when thre
 + AWS observability lets you collect, correlate, aggregate, and analyze telemetry in your network, infrastructure, and applications in the cloud, hybrid, or on-premises environments 
 + so you can gain insights into the behavior, performance, and health of your system. These insights help you detect, investigate, and remediate problems faster; and coupled with artificial intelligence and machine learning, proactively react, predict, and prevent problems.
 
-![security-4_steps_toward_cloud_sec-f](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/808ead78-0e69-4d27-9c6e-86b4c17da821)
+<img width="740" alt="Observability-vs-Monitoring-vs-Telemetry@2x" src="https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/22abc885-1315-41f7-ab16-88269522628f">
 
 ## Collect metrics, logs, and traces from Amazon EC2 instances and on-premises servers with the Cloud Watch agent
 The unified Cloud Watch agent enables you to do the following:
