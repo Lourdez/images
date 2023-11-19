@@ -83,7 +83,8 @@ The unified Cloud Watch agent enables you to do the following:
 
 ## Receive AWS Alerts Only for the Issues That Matter and Eliminate False-Positives
 
-<img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/Example-Picture-1-2.png">
+![Example-Picture-1-2](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/8eebcf78-4192-43f9-a98f-519d2961eb1a)
+
 
 + Set up alerts for anomalies and outliers that account for daily, weekly, and seasonal fluctuations
 + Proactively prevent outages and errors by alerting on metric forecasts
