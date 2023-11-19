@@ -28,18 +28,17 @@ Troubleshoot operational problems with actionable insights derived from logs and
 ### Monitor application performance
 Visualize performance data, create alarms, and correlate data to understand and resolve the root cause of performance issues in your AWS resources.
 
-<img src ="https://github.com/Lourdez/images/blob/main/monitor.png">
+![monitor](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/c0d1d9d6-9a05-4714-8254-3918639657a2)
 
 ### Perform root cause analysis
 Analyze metrics, logs, logs analytics, and user requests to speed up debugging and reduce overall mean time to resolution.
 
-<img src ="https://github.com/Lourdez/images/blob/main/analyse.png">
+![analyse](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/aa8efb9c-8bb8-41bf-922d-9d3845f49c60)
 
 ### Optimize resources proactively
 Automate resource planning and lower costs by setting actions to occur when thresholds are met based on your specifications or machine learning models.
 
-<img src ="https://github.com/Lourdez/images/blob/main/collect.png">
-
+![collect](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/d89393ab-246c-4c27-9c8a-42bcf0fea67d)
 
 ## Monitoring and Observability and Telemetry
 
