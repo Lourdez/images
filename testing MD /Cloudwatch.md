@@ -93,7 +93,7 @@ The unified Cloud Watch agent enables you to do the following:
 
 ## AWS Cloud-Watch All Feathers in Simple 
 
-<img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/security-4_steps_toward_cloud_sec-f.png">
+![security-4_steps_toward_cloud_sec-f](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/808ead78-0e69-4d27-9c6e-86b4c17da821)
 
 ### Collect 
 
