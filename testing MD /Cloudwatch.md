@@ -64,7 +64,8 @@ The unified Cloud Watch agent enables you to do the following:
 
 ## Monitor Your Entire AWS Environment More Effectively
 
-<img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/cw-dashboard.jpg">
+![cp](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/393f3727-57b2-4e1e-b88f-72844cb96a2b)
+
 
 + See inside any stack, any app, anywhere at any scale with Datadog’s 650+ vendor-backed integrations
 + Get started in seconds with auto-discovery for AWS services such as S3, EBS, ELB, and ElastiCache, among many others
@@ -73,7 +74,8 @@ The unified Cloud Watch agent enables you to do the following:
 
 ## Resolve AWS Performance Issues Faster
 
-<img src ="https://github.com/Lourdez/images/blob/main/testing%20MD/2019-06-20%2012_11_54-Cloud%20Insights%20(1)-2.webp">
+![2019-06-20 12_11_54-Cloud Insights (1)-2](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/612ec7ff-37b0-4cdd-a26f-2f9cac786689)
+
 
 + Gain full visibility into your AWS application code performance with end-to-end tracing, full latency breakdowns, and flame graphs showcasing request-level details
 + Identify critical issues quickly with real-time service maps, AI-powered synthetic monitors, and alerts on performance issues
