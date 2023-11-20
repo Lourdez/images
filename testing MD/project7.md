@@ -1,8 +1,8 @@
 # Infrastructure Monitoring and Alerting with AWS CloudWatch
 
-## Step Configure
-+ Create an AWS EC2 instance and install a sample application that generates logs:
-+ Configure CloudWatch to monitor the logs and trigger alerts based on predefined metrics:
+## First Step Configure
+- Create an AWS EC2 instance and install a sample application that generates logs:
+- Configure CloudWatch to monitor the logs and trigger alerts based on predefined metrics:
 
 ## Steps
 
@@ -18,9 +18,18 @@
 
 ![image](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/572e8484-567f-486e-9d91-a0e6f3c72b9a)
 
-+ Creating a role so that cloud watch can interact with ec2.
+## second step configure 
+
+- Create a new CloudWatch log group and specify the log stream from the sample application.
+
+- Define custom CloudWatch metrics based on the log data and set thresholds for alerting.
+
+- Configure CloudWatch alarms to trigger notifications (e.g. email, SMS) when the thresholds are breached.
+
 + Open IAM Service in AWS console
- 
+  
++ Creating a role so that cloud watch can interact with ec2.
+
 ![image](https://github.com/zen-class/zen-class-devops-documentation/assets/54675124/36d373c3-7c7a-44f1-972b-aac313d1cdbc)
 
 + Create a new role but clicking new role
